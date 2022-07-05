@@ -26,4 +26,3 @@
   <a href="https://www.linkedin.com/in/-1374161a6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoQy7hzzCQoaxTz%2FTbmjADw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
  
-</div>
